@@ -1,2 +1,5 @@
 .DS_Store
 .media/
+._recent_files/
+.tmp/
+Guide.localized/
