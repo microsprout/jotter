@@ -1,0 +1,22 @@
+#window
+
+## split
+
+:count `split` +command file
+
+ctrl + w + w/j/k
+
+:new
+
+:sview
+
+change window size
+
+count`ctrl-w`+/-/=
+
+## buffer
+
+1. active
+1. hidden
+1. inactive
+

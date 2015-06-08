@@ -1,0 +1,21 @@
+
+put : after cursor
+
+more on put
+
+mark: m a~z
+
+yank? copy
+
+`y`motion
+
+yank(copy) and put (paste)
+
+filter
+!motion command
+
+
+2
+3
+3
+2
