@@ -25,7 +25,13 @@
 
   1. The jBPM-WB is ghosted out, as it doesn't actually exist, being made redundant by KIE-WB.
 
+## configuration and convention 
 
+  配置和约定
+
+  1. 6.0 introduces a new configuration and convention approach to building knowledge bases, instead of using the programmatic builder approach in 5.x. 
+
+## 
 
 ## extract
 
